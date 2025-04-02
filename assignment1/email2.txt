@@ -1,0 +1,13 @@
+From: support@google.com
+Subject: ACTION REQUIRED IMMEDIATELY
+
+Dear user,
+
+We noticed unusual login attempts to your account. Please verify your identity now to avoid suspension.
+
+Click here: http://192.168.1.100/verify
+
+Failure to take action within 24 hours will result in account lock.
+
+Sincerely,  
+Google Support

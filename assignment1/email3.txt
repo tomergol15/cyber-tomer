@@ -1,0 +1,14 @@
+From: support@paypal.com
+Subject: Monthly Account Statement
+
+Dear customer,
+
+Your monthly statement is now available.
+
+To view it securely, log into your account at:
+https://www.paypal.com/myaccount/summary
+
+Thank you for choosing PayPal.
+
+Sincerely,  
+PayPal Support Team
